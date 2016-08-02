@@ -1,0 +1,13 @@
+{
+  "appname": "Innovateshealtservices",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "F630CFA2-AC37-4F1D-BB92-AD3E63EAFB3C",
+  "buyerid": "buy_1",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
